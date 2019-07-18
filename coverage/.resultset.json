@@ -46,6 +46,25 @@
         1,
         1,
         null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
         null
       ],
       "/Users/joshhemser/Makers/Projects/Collaborator/bookmark-manager-monday/spec/units/bookmark_spec.rb": [
@@ -125,6 +144,6 @@
         null
       ]
     },
-    "timestamp": 1563390157
+    "timestamp": 1563453970
   }
 }
